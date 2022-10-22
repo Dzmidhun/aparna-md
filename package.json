@@ -1,7 +1,7 @@
 {
-   "name": "Hermit-md",
+   "name": "aparna-mr",
    "version": "4.3.1",
-   "description": "Hermit-md - Simple whatsapp Multi Device bot based on @adiwajshing/baileys.",
+   "description": "aparna-md - Simple whatsapp Multi Device bot based on @adiwajshing/baileys.",
    "main": "index.js",
    "scripts": {
       "start": "pm2 start . --attach --name ⛦"

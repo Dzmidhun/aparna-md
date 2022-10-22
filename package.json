@@ -9,7 +9,7 @@
    "author": "Dzmidhun",
    "license": "ISC",
    "dependencies": {
-      "@adiwajshing/baileys": "git+https://github.com/A-d-i-t-h-y-a-n/Baileys.git",
+      "@adiwajshing/baileys": "git+https://github.com/dzmidhun/Baileys.git",
       "@adiwajshing/keyed-db": "^0.2.4",
       "acrcloud": "^1.4.0",
       "wa-sticker-formatter": "^4.3.2",
